@@ -1,3 +1,5 @@
+package decisionControlStructureAssignment1;
+
 import java.util.Scanner;
 
 public class scanner1 {
